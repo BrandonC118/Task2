@@ -153,6 +153,7 @@
   <ItemGroup>
     <ClInclude Include="Client.h" />
     <ClInclude Include="Comms.h" />
+    <ClInclude Include="Exceptions.h" />
     <ClInclude Include="pch.h" />
     <ClInclude Include="Server.h" />
     <ClInclude Include="stdafx.h" />

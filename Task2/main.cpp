@@ -6,17 +6,17 @@
 #include <iostream>
 
 #define _CRT_SECURE_NO_WARNINGS
-#define SERVER true
+#define SERVER false
 using namespace std;
 
 int main() {
 	if (SERVER) {
-		Server *server = new Server();
-		server->Main();
+		Server server;
+		server.Main();
 	}
 	else {
-		Client *client = new Client();
-		client->Main();
+		Client client;
+		client.Main();
 	}
 }
 
