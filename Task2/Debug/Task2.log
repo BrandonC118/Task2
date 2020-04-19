@@ -1,4 +1,5 @@
-﻿  pch.cpp
-  Client.cpp
+﻿  Client.cpp
+  Server.cpp
+  Generating Code...
   main.cpp
   Task2.vcxproj -> C:\Users\brand\source\repos\Task2\Debug\Task2.exe

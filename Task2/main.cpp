@@ -4,8 +4,9 @@
 #include "stdafx.h"
 #include <windows.h>
 #include <iostream>
-#define SERVER true
 
+#define _CRT_SECURE_NO_WARNINGS
+#define SERVER true
 using namespace std;
 
 int main() {
